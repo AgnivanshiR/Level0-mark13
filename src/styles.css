@@ -1,0 +1,33 @@
+body {
+  font-family: sans-serif;
+}
+.container {
+  text-align: center;
+}
+input {
+  margin: 0.5rem;
+  text-align: center;
+  border-color: blue;
+  height: 10vh;
+  width: 300px;
+  font-size: xx-large;
+  border-radius: 0.5rem;
+}
+button {
+  margin: 0.5rem;
+  width: 150px;
+  height: 10vh;
+  border-radius: 0.5rem;
+  background-color: blue;
+  color: white;
+  font-size: large;
+  cursor: pointer;
+}
+button:hover {
+  background-color: white;
+  color: blue;
+  border: 2px solid blue;
+}
+.output {
+  margin: 1rem;
+}
